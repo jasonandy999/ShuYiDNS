@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2024-05-06 14:25:32（北京时间）
+! Version: 2024-05-06 20:38:53（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 133
+! Total count: 134
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -131,6 +131,7 @@
 @@||vanward.com^$important
 @@||vanwardsmart.com^$important
 @@||vitacost.122.2o7.net^
+@@||waimai-guide.ele.me^
 @@||wanhe.com^$important
 @@||webstatic.nero.com^
 @@||wl.jd.com^
