@@ -1,2 +1,0 @@
-#补充规则
-||update.googleapis.com^
