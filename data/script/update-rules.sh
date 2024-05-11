@@ -29,9 +29,9 @@ rules=(
   "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
   "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"
   "https://o0.pages.dev/Pro/adblock.txt"
-  "https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_full.txt"
-#  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt"
-#  "https://filter.futa.gg/hosts.txt"
+#  "https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_full.txt"
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt"
+  "https://filter.futa.gg/hosts.txt"
 #  "https://adaway.org/hosts.txt"
  )
 
