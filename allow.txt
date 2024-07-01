@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2024-07-01 02:15:21（北京时间）
+! Version: 2024-07-01 14:17:58（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 134
+! Total count: 138
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -87,6 +87,7 @@
 @@||login.gaijin.net^
 @@||luyou.gocloud.cn^$important
 @@||m.jingxi.com^
+@@||manwa.me^
 @@||meijuresources.oss-cn-hangzhou.aliyuncs.com^$important
 @@||mercuryclouds.com.cn^$important
 @@||metrics1-drcn.dt.dbankcloud.cn^$important
@@ -98,6 +99,7 @@
 @@||midea.com^$important
 @@||miwifi.com^$important
 @@||msg.douyu.com^
+@@||myqqjd.com^
 @@||myquark.cn^
 @@||nstool.netease.com^
 @@||nwolb.com^
@@ -120,6 +122,7 @@
 @@||shminorshort.weixin.qq.com^
 @@||smart-vanward.oss-cn-shenzhen.aliyuncs.com^$important
 @@||smartmidea.net^$important
+@@||sobot.com^
 @@||static.softlayer.com^
 @@||support.weixin.qq.com^
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
@@ -132,6 +135,7 @@
 @@||vanwardsmart.com^$important
 @@||vitacost.122.2o7.net^
 @@||waimai-guide.ele.me^
+@@||wan.douyu.com^
 @@||wanhe.com^$important
 @@||webstatic.nero.com^
 @@||wl.jd.com^
