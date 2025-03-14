@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-03-14 14:19:36（北京时间）
+! Version: 2025-03-15 02:18:37（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 428
+! Total count: 429
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -44,6 +44,7 @@
 @@||alllaw.112.2o7.net^
 @@||analytics.amplitude.com^
 @@||anwb.webpower.eu^
+@@||ap01.records.in.treasuredata.com^
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 @@||api.ads.tvb.com^
 @@||api.coolapk.com^
