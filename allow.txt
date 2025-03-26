@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-03-26 02:19:36（北京时间）
+! Version: 2025-03-26 14:20:39（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 431
+! Total count: 423
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -158,9 +158,6 @@
 @@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
 @@||hb.afl.rakuten.co.jp^
-@@||hbbtv.prosieben.de^
-@@||hbbtv.redbutton.de^
-@@||hbbtv.zdf.de^
 @@||health.halodoc.com^
 @@||hidive.com^
 @@||home.focusatwill.com^
@@ -180,7 +177,6 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
-@@||infolink.pavv.co.kr^
 @@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ip.taobao.com^
@@ -246,10 +242,6 @@
 @@||meiqia.com^
 @@||mercuryclouds.com.cn^$important
 @@||metrics1-drcn.dt.dbankcloud.cn^$important
-@@||mhc-ajax-eu-s2.myhomescreen.tv^
-@@||mhc-ajax-eu.myhomescreen.tv^
-@@||mhc-xpana-eu-s2.myhomescreen.tv^
-@@||mhc-xpana-eu.myhomescreen.tv^
 @@||midea.cn^$important
 @@||midea.com^$important
 @@||mimg.127.net^
