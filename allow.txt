@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-06-13 14:23:05（北京时间）
+! Version: 2025-06-14 02:21:11（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 422
+! Total count: 421
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -29,7 +29,6 @@
 @@||ad-log-upload.mihoyo.com^
 @@||ad.10010.com^
 @@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||adlink.wf^
@@ -82,6 +81,7 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.ynuf.aliapp.org^
+@@||chaturbate.com^
 @@||chinavanward.com^$important
 @@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
@@ -151,8 +151,6 @@
 @@||gma.alicdn.com^
 @@||go.adjust.com^
 @@||go.scorptec.com.au^
-@@||goto.target.com^
-@@||goto.walmart.com^
 @@||grp07.ias.rakuten.co.jp^
 @@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
@@ -416,6 +414,7 @@
 @@||www.bqgyy.com^
 @@||www.dogpile.com^
 @@||www.googleadservices.com^
+@@||www.jdoqocy.com^
 @@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
