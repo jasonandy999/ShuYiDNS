@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-07-30 14:26:45（北京时间）
+! Version: 2025-07-31 02:23:44（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 417
+! Total count: 415
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -28,7 +28,6 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -118,7 +117,6 @@
 @@||data.flurry.com^
 @@||deliver.kuwo.cn^$important'
 @@||develope-oss.lanzoug.com^
-@@||developers.google.com^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
 @@||down.360safe.com^
@@ -147,7 +145,6 @@
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
 @@||goto.walmart.com^
@@ -262,6 +259,7 @@
 @@||nstool.netease.com^
 @@||oa.tr.line.me^
 @@||obituaries.therecord.com^
+@@||omniture.walmart.com^
 @@||omsc.kpn.com^
 @@||onegoods.nosdn.127.net^
 @@||oneline.nextday.media^
