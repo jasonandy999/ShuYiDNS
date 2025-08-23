@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-08-23 14:20:12（北京时间）
+! Version: 2025-08-24 02:18:49（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 422
+! Total count: 417
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -15,11 +15,12 @@
 @@||192.168.90.*^$important
 @@||316.coolapk1s.com^
 @@||360.cn^
+@@||5471782.fls.doubleclick.net^
 @@||71edge.com^$important
+@@||79423.analytics.edgekey.net^
 @@||a.adwolf.ru^
 @@||a.sellpoint.net^
 @@||abtest3-misc-lf.zijieapi.com^
-@@||ac.ebis.ne.jp^
 @@||acs-m.daraz.com.bd^
 @@||acs-m.daraz.pk^
 @@||acs.m.taobao.com^
@@ -117,7 +118,6 @@
 @@||data.flurry.com^
 @@||deliver.kuwo.cn^$important'
 @@||develope-oss.lanzoug.com^
-@@||developers.google.com^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
 @@||down.360safe.com^
@@ -146,12 +146,7 @@
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.scorptec.com.au^
-@@||goto.target.com^
-@@||goto.walmart.com^
-@@||grp07.ias.rakuten.co.jp^
-@@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
 @@||hb.afl.rakuten.co.jp^
 @@||health.halodoc.com^
@@ -396,7 +391,6 @@
 @@||v*.kwaicdn.com^
 @@||v.miguvideo.com^
 @@||v16m-default.akamaized.net^
-@@||validate.perfdrive.com^
 @@||vanward.com^$important
 @@||vanwardsmart.com^$important
 @@||vas.snssdk.com^
@@ -416,6 +410,7 @@
 @@||www.dogpile.com^
 @@||www.googleadservices.com^
 @@||www.jdoqocy.com^
+@@||www.paypalobjects.com^
 @@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
