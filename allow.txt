@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-10-18 14:20:07（北京时间）
+! Version: 2025-10-19 02:18:45（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 424
+! Total count: 423
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -17,6 +17,7 @@
 @@||360.cn^
 @@||5471782.fls.doubleclick.net^
 @@||71edge.com^$important
+@@||79423.analytics.edgekey.net^
 @@||a.adwolf.ru^
 @@||a.sellpoint.net^
 @@||abtest3-misc-lf.zijieapi.com^
@@ -37,6 +38,7 @@
 @@||ali-gamezone.static.yximgs.com^
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
+@@||alllaw.112.2o7.net^
 @@||analytics.amplitude.com^
 @@||anwb.webpower.eu^
 @@||ap01.records.in.treasuredata.com^
@@ -140,12 +142,10 @@
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
 @@||goto.walmart.com^
@@ -246,7 +246,6 @@
 @@||ms.bdimg.com^
 @@||msg.douyu.com^
 @@||mssdk3-normal-lf.zijieapi.com^
-@@||my.tealiumiq.com^
 @@||myquark.cn^
 @@||n*-lf*-dy-ncdn-tos-sub.bytegecko.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
