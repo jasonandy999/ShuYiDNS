@@ -2,7 +2,7 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-11-11 14:23:56（北京时间）
+! Version: 2025-11-12 02:21:54（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
 ! Total count: 429
 @@/ad-raccoon-web@zhihu.com
@@ -28,6 +28,7 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
+@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -156,8 +157,6 @@
 @@||grp07.ias.rakuten.co.jp^
 @@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
-@@||hb.afl.rakuten.co.jp^
-@@||health.halodoc.com^
 @@||hidive.com^
 @@||home.focusatwill.com^
 @@||href.li^
@@ -177,6 +176,7 @@
 @@||img.funshion.com^
 @@||inews.gtimg.com^
 @@||infra-api.newrelic.com^
+@@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
@@ -317,7 +317,6 @@
 @@||polaris.zijieapi.com^
 @@||portal.volccdn.com^
 @@||prod.impartner.live^
-@@||promo.gramedia.com^
 @@||proto2ad.durasite.net^
 @@||pt.afl.rakuten.co.jp^
 @@||public-cis.exponea.com^
@@ -363,6 +362,7 @@
 @@||smart-vanward.oss-cn-shenzhen.aliyuncs.com^$important
 @@||smart.360.cn^
 @@||smartmidea.net^$important
+@@||smtp.focusgroupresearch.com^
 @@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
