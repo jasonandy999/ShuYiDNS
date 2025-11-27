@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-11-27 14:25:15（北京时间）
+! Version: 2025-11-28 02:21:33（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 424
+! Total count: 423
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -17,6 +17,7 @@
 @@||360.cn^
 @@||5471782.fls.doubleclick.net^
 @@||71edge.com^$important
+@@||79423.analytics.edgekey.net^
 @@||a.adwolf.ru^
 @@||a.sellpoint.net^
 @@||abtest3-misc-lf.zijieapi.com^
@@ -53,6 +54,7 @@
 @@||app.appsflyer.com^
 @@||app.home.360.cn^
 @@||app.toutiao.com^
+@@||artifactory.appodeal.com^
 @@||auth.zijieapi.com^
 @@||avatar.coolapk.com^
 @@||aweme.snssdk.com^
@@ -79,6 +81,7 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.ynuf.aliapp.org^
+@@||chaturbate.com^
 @@||chinavanward.com^$important
 @@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
@@ -140,11 +143,11 @@
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
@@ -152,9 +155,6 @@
 @@||grp07.ias.rakuten.co.jp^
 @@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
-@@||hb.afl.rakuten.co.jp^
-@@||health.halodoc.com^
-@@||hidive.com^
 @@||home.focusatwill.com^
 @@||href.li^
 @@||https://*.mercuryclouds.com.cn^$important
@@ -172,8 +172,6 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
-@@||infra-api.newrelic.com^
-@@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
@@ -360,7 +358,6 @@
 @@||smart-vanward.oss-cn-shenzhen.aliyuncs.com^$important
 @@||smart.360.cn^
 @@||smartmidea.net^$important
-@@||smtp.focusgroupresearch.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
@@ -381,6 +378,7 @@
 @@||tlh.gedidigital.it^
 @@||tms.capitalone.com^
 @@||tnc3-bjlgy.zijieapi.com^
+@@||torimochi.line-apps.com^
 @@||tplinkcloud.com.cn^$important
 @@||tr.rdrtr.com^
 @@||track.rutarget.ru^
@@ -414,6 +412,7 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
+@@||www.dogpile.com^
 @@||www.googleadservices.com^
 @@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
