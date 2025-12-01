@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-01 14:27:18（北京时间）
+! Version: 2025-12-02 02:26:29（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 429
+! Total count: 430
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -28,6 +28,7 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
+@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -153,6 +154,8 @@
 @@||go.scorptec.com.au^
 @@||goto.target.com^
 @@||goto.walmart.com^
+@@||grp07.ias.rakuten.co.jp^
+@@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
 @@||hb.afl.rakuten.co.jp^
 @@||health.halodoc.com^
@@ -179,6 +182,7 @@
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
+@@||itoya.ec-optimizer.com^
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
 @@||js.monitor.azure.com^
@@ -249,7 +253,6 @@
 @@||ms.bdimg.com^
 @@||msg.douyu.com^
 @@||mssdk3-normal-lf.zijieapi.com^
-@@||my.tealiumiq.com^
 @@||myquark.cn^
 @@||n*-lf*-dy-ncdn-tos-sub.bytegecko.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -362,8 +365,6 @@
 @@||smart-vanward.oss-cn-shenzhen.aliyuncs.com^$important
 @@||smart.360.cn^
 @@||smartmidea.net^$important
-@@||smtp.focusgroupresearch.com^
-@@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
