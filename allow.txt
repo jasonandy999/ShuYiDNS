@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-12 14:26:48（北京时间）
+! Version: 2025-12-13 02:25:30（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 426
+! Total count: 427
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -54,7 +54,6 @@
 @@||app.appsflyer.com^
 @@||app.home.360.cn^
 @@||app.toutiao.com^
-@@||artifactory.appodeal.com^
 @@||auth.zijieapi.com^
 @@||avatar.coolapk.com^
 @@||aweme.snssdk.com^
@@ -66,7 +65,6 @@
 @@||bootcdn.net^
 @@||broadcastlv.chat.bilibili.com^
 @@||bs-origin.pull.yximgs.com^
-@@||buyad.bi-xenon.cn^
 @@||c.office.com^
 @@||c.pc.qq.com^
 @@||c.y.qq.com^
@@ -109,10 +107,12 @@
 @@||content.ingbank.pl^
 @@||cp2-cdn-play.funshion.com^
 @@||crm-cdn.peek-cloppenburg.com^
+@@||cs.silverpop.com^
 @@||cstaticdun.126.net^
 @@||cutcaptcha.com^
 @@||d*-magic.static.yximgs.com^
 @@||d*.static.yximgs.com^
+@@||daikoku.ebis.ne.jp^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
 @@||data.flurry.com^
@@ -137,7 +137,6 @@
 @@||fastconn-api.iot.360.cn^
 @@||feed-image.baidu.com^
 @@||feed.adrelayer.com^
-@@||forum.notebookreview.com^
 @@||foundation.youdao.com^
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
@@ -150,12 +149,11 @@
 @@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
-@@||goto.target.com^
-@@||goto.walmart.com^
+@@||grp07.ias.rakuten.co.jp^
+@@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
 @@||hb.afl.rakuten.co.jp^
 @@||health.halodoc.com^
-@@||hidive.com^
 @@||home.focusatwill.com^
 @@||href.li^
 @@||https://*.mercuryclouds.com.cn^$important
@@ -174,7 +172,6 @@
 @@||img.funshion.com^
 @@||inews.gtimg.com^
 @@||infra-api.newrelic.com^
-@@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
@@ -262,6 +259,8 @@
 @@||nsclick.baidu.com^
 @@||nstool.netease.com^
 @@||oa.tr.line.me^
+@@||obituaries.therecord.com^
+@@||obituaries.thestar.com^
 @@||official.paymaya.com^
 @@||omniture.walmart.com^
 @@||omsc.kpn.com^
@@ -361,6 +360,7 @@
 @@||smart.360.cn^
 @@||smartmidea.net^$important
 @@||smtp.focusgroupresearch.com^
+@@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
@@ -418,6 +418,7 @@
 @@||www.datadoghq-browser-agent.com^
 @@||www.dogpile.com^
 @@||www.googleadservices.com^
+@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
 @@||www.statcounter.com^
 @@||www.toutiao.com^
