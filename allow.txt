@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-13 14:23:30（北京时间）
+! Version: 2025-12-14 02:20:43（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 427
+! Total count: 431
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -54,6 +54,7 @@
 @@||app.appsflyer.com^
 @@||app.home.360.cn^
 @@||app.toutiao.com^
+@@||artifactory.appodeal.com^
 @@||auth.zijieapi.com^
 @@||avatar.coolapk.com^
 @@||aweme.snssdk.com^
@@ -65,6 +66,7 @@
 @@||bootcdn.net^
 @@||broadcastlv.chat.bilibili.com^
 @@||bs-origin.pull.yximgs.com^
+@@||buyad.bi-xenon.cn^
 @@||c.office.com^
 @@||c.pc.qq.com^
 @@||c.y.qq.com^
@@ -137,6 +139,7 @@
 @@||fastconn-api.iot.360.cn^
 @@||feed-image.baidu.com^
 @@||feed.adrelayer.com^
+@@||forum.notebookreview.com^
 @@||foundation.youdao.com^
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
@@ -149,13 +152,14 @@
 @@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
+@@||goto.target.com^
+@@||goto.walmart.com^
 @@||grp07.ias.rakuten.co.jp^
 @@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
-@@||hb.afl.rakuten.co.jp^
 @@||health.halodoc.com^
+@@||hidive.com^
 @@||home.focusatwill.com^
-@@||href.li^
 @@||https://*.mercuryclouds.com.cn^$important
 @@||https://*.vanward.com^$important
 @@||https://*chinavanward.com^$important
@@ -163,7 +167,6 @@
 @@||https://*wanhe.com^$important
 @@||https://portal.ikuai8-wifi.com^$important
 @@||i2.y.qq.com^
-@@||ia.hit.interia.pl^
 @@||ib.snssdk.com^
 @@||ic.snssdk.com^
 @@||id.i2i.jp^
@@ -172,6 +175,7 @@
 @@||img.funshion.com^
 @@||inews.gtimg.com^
 @@||infra-api.newrelic.com^
+@@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
