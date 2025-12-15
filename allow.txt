@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-15 14:28:39（北京时间）
+! Version: 2025-12-16 02:25:37（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 429
+! Total count: 424
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -139,7 +139,6 @@
 @@||fastconn-api.iot.360.cn^
 @@||feed-image.baidu.com^
 @@||feed.adrelayer.com^
-@@||forum.notebookreview.com^
 @@||foundation.youdao.com^
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
@@ -152,11 +151,7 @@
 @@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
-@@||grp07.ias.rakuten.co.jp^
-@@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
-@@||hb.afl.rakuten.co.jp^
-@@||health.halodoc.com^
 @@||home.focusatwill.com^
 @@||href.li^
 @@||https://*.mercuryclouds.com.cn^$important
@@ -166,9 +161,9 @@
 @@||https://*wanhe.com^$important
 @@||https://portal.ikuai8-wifi.com^$important
 @@||i2.y.qq.com^
-@@||ia.hit.interia.pl^
 @@||ib.snssdk.com^
 @@||ic.snssdk.com^
+@@||id.i2i.jp^
 @@||img*.funshion.com^
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
@@ -410,6 +405,7 @@
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
+@@||vitacost.122.2o7.net^
 @@||waimai-guide.ele.me^
 @@||wan.douyu.com^
 @@||wanhe.com^$important
@@ -418,7 +414,6 @@
 @@||wl.jd.com^
 @@||www.bqgyy.com^
 @@||www.datadoghq-browser-agent.com^
-@@||www.dogpile.com^
 @@||www.googleadservices.com^
 @@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
