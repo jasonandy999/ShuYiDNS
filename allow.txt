@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-18 14:26:19（北京时间）
+! Version: 2025-12-19 02:25:01（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 422
+! Total count: 429
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -28,6 +28,7 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
+@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -80,7 +81,6 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.ynuf.aliapp.org^
-@@||chaturbate.com^
 @@||chinavanward.com^$important
 @@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
@@ -143,10 +143,12 @@
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
+@@||get.neofinancial.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
@@ -174,6 +176,7 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
+@@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
@@ -362,9 +365,11 @@
 @@||smart.360.cn^
 @@||smartmidea.net^$important
 @@||smtp.focusgroupresearch.com^
+@@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
+@@||stash.roistat.com^
 @@||staticsns.cdn.bcebos.com^
 @@||stats.britishbaseball.org.uk^
 @@||str.hit.gemius.pl^
@@ -387,6 +392,7 @@
 @@||track.rutarget.ru^
 @@||track.webgains.com^
 @@||tracker.ai.xiaomi.com^
+@@||trk.ecomm.lenovo.com^
 @@||ttwid.bytedance.com^
 @@||tvapp.hpplay.cn^
 @@||tybook.taoyuewenhua.net^
@@ -401,6 +407,8 @@
 @@||vanward.com^$important
 @@||vanwardsmart.com^$important
 @@||vas.snssdk.com^
+@@||vcentry2.valuecommerce.ne.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
@@ -412,10 +420,9 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
-@@||www.datadoghq-browser-agent.com^
-@@||www.googleadservices.com^
+@@||www.dogpile.com^
+@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
-@@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wxsnsdy.wxs.qq.com^
