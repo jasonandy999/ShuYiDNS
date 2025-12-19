@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-19 14:25:48（北京时间）
+! Version: 2025-12-20 02:23:49（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 429
+! Total count: 428
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -28,7 +28,6 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -81,6 +80,7 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.ynuf.aliapp.org^
+@@||chaturbate.com^
 @@||chinavanward.com^$important
 @@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
@@ -106,6 +106,7 @@
 @@||conf.hpplay.cn^
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||content.ingbank.pl^
+@@||content.viralize.tv^
 @@||cp2-cdn-play.funshion.com^
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cs.silverpop.com^
@@ -176,7 +177,7 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
-@@||intersport.peerius.com^
+@@||infra-api.newrelic.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
@@ -412,7 +413,6 @@
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
-@@||vitacost.122.2o7.net^
 @@||waimai-guide.ele.me^
 @@||wan.douyu.com^
 @@||wanhe.com^$important
@@ -420,8 +420,7 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
-@@||www.dogpile.com^
-@@||www.jdoqocy.com^
+@@||www.googleadservices.com^
 @@||www.paypalobjects.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
