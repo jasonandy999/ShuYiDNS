@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-21 14:24:20（北京时间）
+! Version: 2025-12-22 02:21:58（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 431
+! Total count: 433
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -409,6 +409,8 @@
 @@||vanward.com^$important
 @@||vanwardsmart.com^$important
 @@||vas.snssdk.com^
+@@||vcentry2.valuecommerce.ne.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
@@ -423,8 +425,8 @@
 @@||www.datadoghq-browser-agent.com^
 @@||www.dogpile.com^
 @@||www.googleadservices.com^
+@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
-@@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wxsnsdy.wxs.qq.com^
