@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-28 14:25:03（北京时间）
+! Version: 2025-12-29 02:23:10（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 435
+! Total count: 434
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -110,7 +110,6 @@
 @@||content.viralize.tv^
 @@||cp2-cdn-play.funshion.com^
 @@||crm-cdn.peek-cloppenburg.com^
-@@||cs.silverpop.com^
 @@||cstaticdun.126.net^
 @@||cutcaptcha.com^
 @@||d*-magic.static.yximgs.com^
@@ -179,6 +178,7 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
+@@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
@@ -425,8 +425,7 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
-@@||www.datadoghq-browser-agent.com^
-@@||www.googleadservices.com^
+@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
 @@||www.statcounter.com^
 @@||www.toutiao.com^
