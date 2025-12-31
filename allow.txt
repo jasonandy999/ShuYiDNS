@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2025-12-31 14:26:57（北京时间）
+! Version: 2026-01-01 02:23:40（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 431
+! Total count: 430
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -28,7 +28,6 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -151,6 +150,8 @@
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
+@@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
 @@||goto.walmart.com^
@@ -177,7 +178,6 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
-@@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
@@ -348,10 +348,7 @@
 @@||reports.adguard.com^
 @@||res.ads.nicovideo.jp^
 @@||res.mi.baidu.com^
-@@||s.bluecore.com^
 @@||s.mvconf.f.360.cn^
-@@||s.optnx.com^
-@@||s1.wp.com^
 @@||saveu*-normal-lf.zijieapi.com^
 @@||saveu.zijieapi.com^
 @@||sax.sina.com.cn^
@@ -423,6 +420,8 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
+@@||www.googleadservices.com^
+@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
 @@||www.statcounter.com^
 @@||www.toutiao.com^
