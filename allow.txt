@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-01-06 14:27:31（北京时间）
+! Version: 2026-01-07 02:24:45（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 435
+! Total count: 431
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -146,12 +146,10 @@
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
@@ -371,7 +369,6 @@
 @@||smart.360.cn^
 @@||smartmidea.net^$important
 @@||smtp.focusgroupresearch.com^
-@@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
@@ -426,13 +423,12 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
-@@||www.datadoghq-browser-agent.com^
-@@||www.googleadservices.com^
+@@||www.dogpile.com^
 @@||www.paypalobjects.com^
-@@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wxsnsdy.wxs.qq.com^
+@@||x2.ifengimg.com^
 @@||yanxuan-dl.nosdn.127.net^
 @@||yanxuan-item.nosdn.127.net^
 @@||yanxuan.nosdn.127.net^
