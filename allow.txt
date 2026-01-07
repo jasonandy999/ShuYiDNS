@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-01-07 14:27:03（北京时间）
+! Version: 2026-01-08 02:26:17（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 431
+! Total count: 438
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -146,10 +146,12 @@
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
+@@||get.neofinancial.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
@@ -177,6 +179,7 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
+@@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
@@ -369,6 +372,7 @@
 @@||smart.360.cn^
 @@||smartmidea.net^$important
 @@||smtp.focusgroupresearch.com^
+@@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
@@ -423,8 +427,11 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
+@@||www.datadoghq-browser-agent.com^
 @@||www.dogpile.com^
+@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
+@@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wxsnsdy.wxs.qq.com^
