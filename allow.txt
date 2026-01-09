@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-01-09 14:27:10（北京时间）
+! Version: 2026-01-10 02:26:01（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 434
+! Total count: 432
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -28,7 +28,6 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -81,9 +80,7 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.ynuf.aliapp.org^
-@@||chaturbate.com^
 @@||chinavanward.com^$important
-@@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
 @@||cj.dotomi.com^
 @@||cl.link-ag.net^
@@ -110,7 +107,6 @@
 @@||content.viralize.tv^
 @@||cp2-cdn-play.funshion.com^
 @@||crm-cdn.peek-cloppenburg.com^
-@@||cs.silverpop.com^
 @@||cstaticdun.126.net^
 @@||cutcaptcha.com^
 @@||d*-magic.static.yximgs.com^
@@ -179,11 +175,11 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
+@@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
-@@||itoya.ec-optimizer.com^
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
 @@||js.monitor.azure.com^
@@ -355,7 +351,6 @@
 @@||s1.wp.com^
 @@||saveu*-normal-lf.zijieapi.com^
 @@||saveu.zijieapi.com^
-@@||sax.sina.com.cn^
 @@||sbs.demdex.net^
 @@||scan.call.f.360.cn^
 @@||sdk.live.360.cn^
@@ -413,6 +408,8 @@
 @@||vanward.com^$important
 @@||vanwardsmart.com^$important
 @@||vas.snssdk.com^
+@@||vcentry2.valuecommerce.ne.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
@@ -424,10 +421,11 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
-@@||www.datadoghq-browser-agent.com^
 @@||www.dogpile.com^
+@@||www.googleadservices.com^
 @@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
+@@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wxsnsdy.wxs.qq.com^
