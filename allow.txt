@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-01-12 14:30:09（北京时间）
+! Version: 2026-01-13 02:26:30（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 429
+! Total count: 434
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -110,6 +110,7 @@
 @@||content.viralize.tv^
 @@||cp2-cdn-play.funshion.com^
 @@||crm-cdn.peek-cloppenburg.com^
+@@||cs.silverpop.com^
 @@||cstaticdun.126.net^
 @@||cutcaptcha.com^
 @@||d*-magic.static.yximgs.com^
@@ -150,6 +151,7 @@
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
@@ -177,10 +179,10 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
+@@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
-@@||itoya.ec-optimizer.com^
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
 @@||js.monitor.azure.com^
@@ -409,6 +411,8 @@
 @@||vanward.com^$important
 @@||vanwardsmart.com^$important
 @@||vas.snssdk.com^
+@@||vcentry2.valuecommerce.ne.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
@@ -420,9 +424,10 @@
 @@||wgo.mmstat.com^
 @@||wl.jd.com^
 @@||www.bqgyy.com^
+@@||www.datadoghq-browser-agent.com^
 @@||www.googleadservices.com^
+@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
-@@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wxsnsdy.wxs.qq.com^
