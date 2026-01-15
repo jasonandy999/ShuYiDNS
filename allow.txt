@@ -2,7 +2,7 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-01-15 14:27:28（北京时间）
+! Version: 2026-01-16 02:30:21（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
 ! Total count: 432
 @@/ad-raccoon-web@zhihu.com
@@ -28,7 +28,6 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -81,9 +80,7 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.ynuf.aliapp.org^
-@@||chaturbate.com^
 @@||chinavanward.com^$important
-@@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
 @@||cj.dotomi.com^
 @@||cl.link-ag.net^
@@ -180,6 +177,7 @@
 @@||img.funshion.com^
 @@||inews.gtimg.com^
 @@||infra-api.newrelic.com^
+@@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
@@ -371,6 +369,7 @@
 @@||smart.360.cn^
 @@||smartmidea.net^$important
 @@||smtp.focusgroupresearch.com^
+@@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
@@ -428,6 +427,7 @@
 @@||www.datadoghq-browser-agent.com^
 @@||www.dogpile.com^
 @@||www.paypalobjects.com^
+@@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wxsnsdy.wxs.qq.com^
 @@||yanxuan-dl.nosdn.127.net^
