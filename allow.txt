@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-01-30 14:41:35（北京时间）
+! Version: 2026-01-31 02:35:14（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 436
+! Total count: 428
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -28,6 +28,7 @@
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.kazakinfo.com^
+@@||ad.ourgame.com^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
 @@||admin.dable.io^
@@ -66,11 +67,9 @@
 @@||broadcastlv.chat.bilibili.com^
 @@||bs-origin.pull.yximgs.com^
 @@||buyad.bi-xenon.cn^
-@@||c.office.com^
 @@||c.pc.qq.com^
 @@||c.y.qq.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
-@@||captcha.su.baidu.com^
 @@||captive.apple.com^$client=10.20.20.*
 @@||catchup.thisisdax.com^
 @@||cbsi.map.fastly.net^
@@ -109,12 +108,10 @@
 @@||content.viralize.tv^
 @@||cp2-cdn-play.funshion.com^
 @@||crm-cdn.peek-cloppenburg.com^
-@@||cs.silverpop.com^
 @@||cstaticdun.126.net^
 @@||cutcaptcha.com^
 @@||d*-magic.static.yximgs.com^
 @@||d*.static.yximgs.com^
-@@||daikoku.ebis.ne.jp^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
 @@||data.flurry.com^
@@ -125,11 +122,9 @@
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
 @@||down.360safe.com^
-@@||download.adguard.com^
 @@||download.uc.cn^
 @@||dp.push.dc.360.cn^
 @@||drive.quark.cn^
-@@||e.customeriomail.com^
 @@||edu-image.nosdn.127.net^
 @@||effect.snssdk.com^
 @@||email.awscloud.com^
@@ -145,11 +140,11 @@
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
@@ -178,11 +173,9 @@
 @@||img.funshion.com^
 @@||inews.gtimg.com^
 @@||infra-api.newrelic.com^
-@@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
-@@||itoya.ec-optimizer.com^
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
 @@||js.monitor.azure.com^
@@ -369,10 +362,11 @@
 @@||smart-vanward.oss-cn-shenzhen.aliyuncs.com^$important
 @@||smart.360.cn^
 @@||smartmidea.net^$important
-@@||sobot.com^
+@@||smtp.focusgroupresearch.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
+@@||ssai.aniview.com^
 @@||stash.roistat.com^
 @@||staticsns.cdn.bcebos.com^
 @@||stats.britishbaseball.org.uk^
@@ -411,8 +405,6 @@
 @@||vanward.com^$important
 @@||vanwardsmart.com^$important
 @@||vas.snssdk.com^
-@@||vcentry2.valuecommerce.ne.jp^
-@@||vcentry3.valuecommerce.ne.jp^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
