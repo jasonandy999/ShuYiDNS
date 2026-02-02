@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-02-02 14:57:38（北京时间）
+! Version: 2026-02-03 02:36:23（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 429
+! Total count: 440
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -22,6 +22,8 @@
 @@||a.sellpoint.net^
 @@||abtest3-misc-lf.zijieapi.com^
 @@||ac.ebis.ne.jp^
+@@||acs-m.daraz.com.bd^
+@@||acs-m.daraz.pk^
 @@||acs.m.taobao.com^
 @@||action.metaffiliation.com^
 @@||ad-log-upload.mihoyo.com^
@@ -56,6 +58,7 @@
 @@||auth.zijieapi.com^
 @@||avatar.coolapk.com^
 @@||aweme.snssdk.com^
+@@||awin1.com^
 @@||banner.dna.fi^
 @@||bgp.video-upload-v*.lf.bytelb.net^
 @@||bjfesdk.douyucdn.cn^
@@ -78,12 +81,19 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.ynuf.aliapp.org^
+@@||chaturbate.com^
 @@||chinavanward.com^$important
+@@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
 @@||cj.dotomi.com^
+@@||cl.link-ag.net^
 @@||classliving.lpages.co^
 @@||click.aliyun.com^
 @@||click.appcast.io^
+@@||click.avs.io^
+@@||click.cptrack.de^
+@@||click.simba.taobao.com^
+@@||click.trafficguard.ai^
 @@||click.virt.exacttarget.com^
 @@||clickattr.wayup.com^
 @@||cloud.notification-naviextras.com^
@@ -169,6 +179,7 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
+@@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
