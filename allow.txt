@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-02-04 14:43:33（北京时间）
+! Version: 2026-02-05 02:41:25（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 429
+! Total count: 436
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -71,6 +71,7 @@
 @@||c.pc.qq.com^
 @@||c.y.qq.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
+@@||captcha.su.baidu.com^
 @@||captive.apple.com^$client=10.20.20.*
 @@||catchup.thisisdax.com^
 @@||cbsi.map.fastly.net^
@@ -145,14 +146,17 @@
 @@||fp-it.fengkongcloud.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
+@@||get.neofinancial.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||goto.target.com^
 @@||goto.walmart.com^
+@@||grp07.ias.rakuten.co.jp^
 @@||gs.statcounter.com^
 @@||h5.hpplay.com.cn^
 @@||hb.afl.rakuten.co.jp^
@@ -175,11 +179,11 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||inews.gtimg.com^
+@@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
-@@||itoya.ec-optimizer.com^
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
 @@||js.monitor.azure.com^
@@ -366,6 +370,7 @@
 @@||smart-vanward.oss-cn-shenzhen.aliyuncs.com^$important
 @@||smart.360.cn^
 @@||smartmidea.net^$important
+@@||smtp.focusgroupresearch.com^
 @@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
@@ -394,7 +399,6 @@
 @@||track.rutarget.ru^
 @@||track.webgains.com^
 @@||tracker.ai.xiaomi.com^
-@@||trk.ecomm.lenovo.com^
 @@||ttwid.bytedance.com^
 @@||tvapp.hpplay.cn^
 @@||tybook.taoyuewenhua.net^
@@ -405,12 +409,16 @@
 @@||v*.kwaicdn.com^
 @@||v.miguvideo.com^
 @@||v16m-default.akamaized.net^
+@@||validate.perfdrive.com^
 @@||vanward.com^$important
 @@||vanwardsmart.com^$important
 @@||vas.snssdk.com^
+@@||vcentry2.valuecommerce.ne.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
+@@||vitacost.122.2o7.net^
 @@||waimai-guide.ele.me^
 @@||wan.douyu.com^
 @@||wanhe.com^$important
@@ -419,10 +427,9 @@
 @@||wl.jd.com^
 @@||www.bqgyy.com^
 @@||www.datadoghq-browser-agent.com^
-@@||www.dogpile.com^
 @@||www.googleadservices.com^
-@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
+@@||www.statcounter.com^
 @@||www.toutiao.com^
 @@||wwwimage-tve.cbsstatic.com^
 @@||wxsnsdy.wxs.qq.com^
