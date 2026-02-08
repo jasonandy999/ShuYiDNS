@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/jasonandy999/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2026-02-08 14:42:50（北京时间）
+! Version: 2026-02-09 02:29:22（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 435
+! Total count: 433
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -110,6 +110,7 @@
 @@||content.viralize.tv^
 @@||cp2-cdn-play.funshion.com^
 @@||crm-cdn.peek-cloppenburg.com^
+@@||cs.silverpop.com^
 @@||cstaticdun.126.net^
 @@||cutcaptcha.com^
 @@||d*-magic.static.yximgs.com^
@@ -136,7 +137,6 @@
 @@||email.elitedangerous.com^
 @@||f-cashloan.snssdk.com^
 @@||f-cpay.snssdk.com^
-@@||f-gear.ec-optimizer.com^
 @@||fastconn-api.iot.360.cn^
 @@||feed-image.baidu.com^
 @@||feed.adrelayer.com^
@@ -182,7 +182,6 @@
 @@||ip.taobao.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||is.snssdk.com^
-@@||itoya.ec-optimizer.com^
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
 @@||js.monitor.azure.com^
@@ -216,6 +215,7 @@
 @@||link.morningbrew.com^
 @@||link.nzz.ch^
 @@||link.sylikes.com^
+@@||linka.page^
 @@||links.e.theatlantic.com^
 @@||links.getblueshift.com^
 @@||live*.static.yximgs.com^
@@ -368,6 +368,7 @@
 @@||smart.360.cn^
 @@||smartmidea.net^$important
 @@||smtp.focusgroupresearch.com^
+@@||sobot.com^
 @@||souti-ims.sm.cn^
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
@@ -381,8 +382,6 @@
 @@||support.weixin.qq.com^
 @@||survey.feelgood.cn^
 @@||surveymyopinion.researchnow.com^
-@@||tags.crwdcntrl.net^
-@@||taiga.maven.io^
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
 @@||tcbox.baidu.com^
 @@||tianshu.gtimg.cn^
@@ -426,7 +425,6 @@
 @@||www.datadoghq-browser-agent.com^
 @@||www.dogpile.com^
 @@||www.googleadservices.com^
-@@||www.jdoqocy.com^
 @@||www.paypalobjects.com^
 @@||www.statcounter.com^
 @@||www.toutiao.com^
